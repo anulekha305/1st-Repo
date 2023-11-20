@@ -1,2 +1,2 @@
 # 1st-Repo
-Sone problem of coading
+Some problem of coading
